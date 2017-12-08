@@ -1,0 +1,11 @@
+E:\_JAYLLI\Ajedrez\Ajedrez.BL.BC\bin\Debug\Ajedrez.BL.BC.dll
+E:\_JAYLLI\Ajedrez\Ajedrez.BL.BC\bin\Debug\Ajedrez.BL.BC.pdb
+E:\_JAYLLI\Ajedrez\Ajedrez.BL.BC\obj\Debug\Ajedrez.BL.BC.csprojResolveAssemblyReference.cache
+E:\_JAYLLI\Ajedrez\Ajedrez.BL.BC\obj\Debug\Ajedrez.BL.BC.dll
+E:\_JAYLLI\Ajedrez\Ajedrez.BL.BC\obj\Debug\Ajedrez.BL.BC.pdb
+C:\Users\Moran\source\repos\Ajedrez\Ajedrez.BL.BC\bin\Debug\Ajedrez.BL.BC.dll
+C:\Users\Moran\source\repos\Ajedrez\Ajedrez.BL.BC\bin\Debug\Ajedrez.BL.BC.pdb
+C:\Users\Moran\source\repos\Ajedrez\Ajedrez.BL.BC\obj\Debug\Ajedrez.BL.BC.csprojResolveAssemblyReference.cache
+C:\Users\Moran\source\repos\Ajedrez\Ajedrez.BL.BC\obj\Debug\Ajedrez.BL.BC.csproj.CoreCompileInputs.cache
+C:\Users\Moran\source\repos\Ajedrez\Ajedrez.BL.BC\obj\Debug\Ajedrez.BL.BC.dll
+C:\Users\Moran\source\repos\Ajedrez\Ajedrez.BL.BC\obj\Debug\Ajedrez.BL.BC.pdb
